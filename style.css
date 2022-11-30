@@ -2,3 +2,23 @@
     border: 10px solid greenyellow;
     font-style: sans;
 }
+
+.col-md-4{
+    border: 10px solid red;
+}
+
+.col-md-8 {
+    border: 10px solid blue;
+}
+
+.col-md-3{
+    border: 10px solid yellow;
+}
+
+.btn{
+    width: 100%;
+}
+
+#destination_details{
+    border: 10px solid rgb(216, 37, 192);
+}   
